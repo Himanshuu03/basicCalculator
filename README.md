@@ -1,7 +1,4 @@
 # Basic Calculator
-
-![GitHub](https://img.shields.io/github/license/Himanshuu03/basicCalculator?style=flat-square)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Himanshuu03/basicCalculator?style=flat-square)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Himanshuu03/basicCalculator?style=flat-square)
 
 This is a basic calculator application built using JavaScript. It performs simple arithmetic operations such as addition, subtraction, multiplication, and division. It provides a user-friendly interface for users to perform calculations.
@@ -41,17 +38,13 @@ If you want to modify or extend the calculator, follow these steps:
 
 5. Save the changes and refresh the `index.html` file in your web browser to see the updated calculator.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 
 ## Acknowledgments
 
-This project was created by [Himanshuu03](https://github.com/Himanshuu03). Thank you to all the contributors who have helped improve this calculator.
+This project was created by [Himanshuu03](https://github.com/Himanshuu03). 
 
 ## Support
 
