@@ -1,5 +1,3 @@
-I apologize for the misunderstanding. Here's an updated version of the README for a JavaScript-based calculator repository:
-
 # Basic Calculator
 
 ![GitHub](https://img.shields.io/github/license/Himanshuu03/basicCalculator?style=flat-square)
