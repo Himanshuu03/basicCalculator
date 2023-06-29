@@ -21,7 +21,7 @@ class Calculator{
         if(this.currentopr !== ''){
             this.compute();
         }
-        this.operation = operation ;
+        this.operation = operation ;     
         this.previousopr = this.currentopr;
         this.currentopr ='';
     }
