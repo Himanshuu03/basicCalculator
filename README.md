@@ -37,15 +37,3 @@ If you want to modify or extend the calculator, follow these steps:
 4. Make the necessary modifications or additions to the JavaScript code.
 
 5. Save the changes and refresh the `index.html` file in your web browser to see the updated calculator.
-
-## Contributing
-
-Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
-
-## Acknowledgments
-
-This project was created by [Himanshuu03](https://github.com/Himanshuu03). 
-
-## Support
-
-If you have any questions or need assistance, feel free to [open an issue](https://github.com/Himanshuu03/basicCalculator/issues) in the repository.
