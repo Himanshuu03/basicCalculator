@@ -88,7 +88,7 @@ const previousOperand = document.querySelector('[data-previous-operation]')
 const currentOperand = document.querySelector('[data-current-operation]')
 
 
-const calculator = new Calculator(previousOperand,currentOperand );
+const calculator = new Calculator(previousOperand,currentOperand);
 
 numberButttons.forEach((buttons)=>{
     buttons.addEventListener('click',()=>{
